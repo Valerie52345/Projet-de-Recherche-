@@ -1,0 +1,1 @@
+if (instance_exists(dvd)) instance_destroy(dvd);

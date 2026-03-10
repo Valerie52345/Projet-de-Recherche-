@@ -1,0 +1,1 @@
+if (instance_exists(tpose)) instance_destroy(tpose);

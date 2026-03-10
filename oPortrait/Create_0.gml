@@ -1,0 +1,1 @@
+glitch_timer = 0;
